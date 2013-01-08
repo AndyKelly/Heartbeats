@@ -1,0 +1,10 @@
+C:\Users\HAL\Documents\Visual Studio 2010\Projects\HeartbeatsClient\HeartbeatsClient\bin\Debug\HeartbeatsClient.exe
+C:\Users\HAL\Documents\Visual Studio 2010\Projects\HeartbeatsClient\HeartbeatsClient\bin\Debug\HeartbeatsClient.pdb
+C:\Users\HAL\Documents\Visual Studio 2010\Projects\HeartbeatsClient\HeartbeatsClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HAL\Documents\Visual Studio 2010\Projects\HeartbeatsClient\HeartbeatsClient\obj\x86\Debug\HeartbeatsClient.HeartbeatsForm.resources
+C:\Users\HAL\Documents\Visual Studio 2010\Projects\HeartbeatsClient\HeartbeatsClient\obj\x86\Debug\HeartbeatsClient.Properties.Resources.resources
+C:\Users\HAL\Documents\Visual Studio 2010\Projects\HeartbeatsClient\HeartbeatsClient\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\HAL\Documents\Visual Studio 2010\Projects\HeartbeatsClient\HeartbeatsClient\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\HAL\Documents\Visual Studio 2010\Projects\HeartbeatsClient\HeartbeatsClient\obj\x86\Debug\HeartbeatsClient.exe
+C:\Users\HAL\Documents\Visual Studio 2010\Projects\HeartbeatsClient\HeartbeatsClient\obj\x86\Debug\HeartbeatsClient.pdb
+C:\Users\HAL\Documents\Visual Studio 2010\Projects\HeartbeatsClient\HeartbeatsClient\bin\Debug\irrKlang.dll

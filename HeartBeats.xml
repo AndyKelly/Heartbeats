@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Beats>
+	<Beat>
+		<Location>C:/Users/HAL/Desktop/Heart Beats/Tunes/Action_HIGH.mp3</Location>
+		<Mood>HIGH</Mood>
+	</Beat>
+	
+	<Beat>
+		<Location>C:/Users/HAL/Desktop/Heart Beats/Tunes/Action_MID.mp3</Location>
+		<Mood>MID</Mood>
+	</Beat>
+	
+	<Beat>
+		<Location>C:/Users/HAL/Desktop/Heart Beats/Tunes/Action_LOW.mp3</Location>
+		<Mood>LOW</Mood>
+	</Beat>
+	
+	<Beat>
+		<Location>C:/Users/HAL/Desktop/Heart Beats/Tunes/Action_HIGH2.mp3</Location>
+		<Mood>HIGH</Mood>
+	</Beat>
+	
+	<Beat>
+		<Location>C:/Users/HAL/Desktop/Heart Beats/Tunes/Action_MID2.mp3</Location>
+		<Mood>MID</Mood>
+	</Beat>
+	
+	<Beat>
+		<Location>C:/Users/HAL/Desktop/Heart Beats/Tunes/Action_LOW2.mp3</Location>
+		<Mood>LOW</Mood>
+	</Beat>
+</Beats>
+   
